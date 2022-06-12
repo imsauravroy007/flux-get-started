@@ -41,7 +41,7 @@ spec:
             containerPort: 9898
             protocol: TCP
           - name: http-metrics
-            containerPort: 9797
+            containerPort: 9798
             protocol: TCP
           - name: grpc
             containerPort: 9999
