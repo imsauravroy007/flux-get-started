@@ -22,7 +22,7 @@ spec:
     metadata:
       annotations:
         prometheus.io/scrape: "true"
-        prometheus.io/port: "9797"
+        prometheus.io/port: "9798"
       labels:
         app: podinfo
     spec:
